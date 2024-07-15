@@ -1,6 +1,4 @@
-Got it! If your project is a clock rather than a lock screen, here's a revised README file tailored for a clock project:
 
----
 
 # CLock - Custom Clock
 
@@ -73,17 +71,3 @@ Contributions are welcome! If you have ideas for enhancements or find any issues
 3. Make your changes and commit them (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Create a new Pull Request.
-
-
-
-## Contact
-
-For any questions or support, please contact:
-
-- Author: Raghav Kumar Prabhakar
-- Email: Raghav kumarprabhakar[](Raghavkumarprabhakar50@gmail.com)
-- GitHub: [Raghav kumar prabhakar](https://github.com/Raghavkumarprabhakar)
-
----
-
-Feel free to adjust the details to match your project's features and your personal preferences.
