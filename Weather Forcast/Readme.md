@@ -4,7 +4,7 @@ Welcome to the Weather App! This application provides current weather informatio
 
 ## 🖼️ Preview
 
-![Weather App Screenshot](images/weather-app-screenshot.png)
+![Weather App Screenshot](https://github.com/Raghavkumarprabhakar/Web-Projects/blob/main/Weather%20Forcast/images/Screenshot%202024-09-07%20134719.png)
 
 ## 📋 Features
 
